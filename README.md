@@ -1,4 +1,4 @@
-# react-jshunt
+# 📱 React JShunt
 
 ![react-jshunt-screen](https://i.imgur.com/pyycdiC.png)
 
